@@ -57,3 +57,5 @@ dkms.conf
 
 # Raw data
 Matlab Scripts/Scans/*
+
+Electronics/*/production/*

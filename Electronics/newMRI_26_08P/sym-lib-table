@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "HatConnectors") (type "KiCad") (uri "/Users/white/Documents/KiCad/ElementTemplate/HatConnectors.kicad_sym") (options "") (descr ""))
+)
